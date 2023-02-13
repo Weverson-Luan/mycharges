@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">realmdb-app</string>
+     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">EicGXDK4LJuPOx6FsHl9kJDKEdXtPY20o81ez</string>
+</resources>
